@@ -11,7 +11,7 @@ public class Employee {
 	}
 	public  void info ()
 	{
-		System.out.println("from info");
+		System.out.println("from infovgg");
 	}
 
 }
